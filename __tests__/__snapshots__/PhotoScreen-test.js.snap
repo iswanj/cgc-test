@@ -1,0 +1,87 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PhotoScreen screen should match snapshot 1`] = `
+<View
+  centerH={true}
+  marginT-20={true}
+  style={
+    Array [
+      undefined,
+      undefined,
+      Object {
+        "flex": 1,
+      },
+      undefined,
+      Object {},
+      Object {
+        "marginTop": 20,
+      },
+      Object {
+        "alignItems": "center",
+      },
+      undefined,
+    ]
+  }
+>
+  <View
+    centerH={true}
+    style={
+      Array [
+        undefined,
+        undefined,
+        undefined,
+        undefined,
+        Object {},
+        Object {},
+        Object {
+          "alignItems": "center",
+        },
+        Object {
+          "flex": 1,
+        },
+      ]
+    }
+  >
+    <Image
+      source={
+        Object {
+          "uri": "",
+        }
+      }
+      style={
+        Object {
+          "height": 300,
+          "width": 300,
+        }
+      }
+    />
+    <Text
+      capital={true}
+      marginT-20={true}
+      paddingH-20={true}
+      style={
+        Array [
+          Object {
+            "backgroundColor": "transparent",
+            "textAlign": "left",
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+          Object {
+            "marginTop": 20,
+          },
+          undefined,
+          undefined,
+          undefined,
+          undefined,
+        ]
+      }
+      title={true}
+    >
+      
+    </Text>
+  </View>
+</View>
+`;
